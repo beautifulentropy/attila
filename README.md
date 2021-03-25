@@ -1,4 +1,5 @@
-# Attila
+# Attilol
+## A fork of `zutrinken/attila` with Signup and Subscribe removed
 
 A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [attila.peteramende.de](https://attila.peteramende.de/)
 
